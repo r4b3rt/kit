@@ -17,7 +17,15 @@ business value.
 
 ## Sponsors
 
-Click on Sponsor, above, for more information on sponsorship.
+<div>
+  <a href="https://encore.dev" style="display: inline-flex; align-items: center; gap: 10px">
+    <img src="https://user-images.githubusercontent.com/78424526/214602214-52e0483a-b5fc-4d4c-b03e-0b7b23e012df.svg" height="28px" alt="encore icon"></img>
+  <b>Encore – the platform for building Go-based cloud backends.</b>
+    </a>
+</div>
+<br/>
+
+Click [here](https://github.com/sponsors/peterbourgon) or Sponsor, above, for more information on sponsorship.
 
 ## Motivation
 
@@ -69,14 +77,14 @@ version 0, so it should be compatible with non-modules environments.
 There are several third-party tools that can generate Go kit code based on
 different starting assumptions.
 
-- [devimteam/microgen](https://github.com/devimteam/microgen)
+- [RecoLabs/microgen](https://github.com/RecoLabs/microgen)
 - [GrantZheng/kit](https://github.com/GrantZheng/kit)
-- [chaseSpace/kit](https://github.com/chaseSpace/kit)
 - [kujtimiihoxha/kit](https://github.com/kujtimiihoxha/kit) (unmaintained)
 - [nytimes/marvin](https://github.com/nytimes/marvin)
 - [sagikazarmark/mga](https://github.com/sagikazarmark/mga)
-- [sagikazarmark/protoc-gen-kit](https://github.com/sagikazarmark/protoc-gen-kit)
-- [tuneinc/truss](https://github.com/tuneinc/truss)
+- [sagikazarmark/protoc-gen-go-kit](https://github.com/sagikazarmark/protoc-gen-go-kit)
+- [metaverse/truss](https://github.com/metaverse/truss)
+- [goadesign/goakit](https://github.com/goadesign/plugins/tree/v3/goakit)
 
 ## Related projects
 
